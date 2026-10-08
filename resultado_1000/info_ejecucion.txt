@@ -1,0 +1,14 @@
+Fecha: 2026-09-26 16:54:00.983423
+Train: c:\Users\cruzp\Documents\ProyectoFIRA1\agregados\agregado_train.xlsx
+Prediccion: c:\Users\cruzp\Documents\ProyectoFIRA1\agregados\agregado_prediccion.xlsx
+Target: RENDIMIENTO_T_HA
+ID: ID_POLIGONO
+K: 15
+Folds: 5
+Corridas: 1000
+Metodos: ['LASSO', 'RF', 'XGB', 'MI', 'KBEST', 'CORRELACION']
+GroupKFold: False
+Baseline incluido: True
+Preseleccion: 0
+Mejor metodo: LASSO
+N features final: 15

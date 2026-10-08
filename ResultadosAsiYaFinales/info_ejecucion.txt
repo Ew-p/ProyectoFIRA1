@@ -1,0 +1,14 @@
+Fecha: 2026-10-04 16:35:22.345959
+Train: c:\Users\cruzp\Documents\ProyectoFIRA1\datos3\condensado_train.xlsx
+Prediccion: c:\Users\cruzp\Documents\ProyectoFIRA1\datos3\condensado_prediccion.xlsx
+Target: RENDIMIENTO_T_HA
+ID: ID_POLIGONO
+K: 15
+Folds: 5
+Corridas: 1500
+Metodos: ['LASSO', 'RF', 'XGB', 'MI', 'KBEST', 'CORRELACION']
+GroupKFold: False
+Baseline incluido: False
+Preseleccion: 0
+Mejor metodo: XGBoost
+N features final: 15
